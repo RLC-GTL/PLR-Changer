@@ -23,6 +23,7 @@
 *.lib
 
 # Executables
+GTLplrChanger
 *.exe
 *.out
 *.app
